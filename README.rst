@@ -101,7 +101,7 @@ We use the following NIST dataset for the study:
 
 #. Run the analysis
 
-   #. Load the probe sete
+   #. Load the probe set
    #. Load the gallery set
    #. Compare each image in "probe" to "gallery"
    #. Store results in HBase
